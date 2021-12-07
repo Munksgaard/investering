@@ -61,6 +61,13 @@ realiserer beskattes man af den realiserede gevinst.
 Værdipapirer som realisationsbeskattes beskattes kun når man realiserer sin
 gevinst.
 
+## Valutakonto
+
+Nordnet (og sikkert også de fleste andre brokers) tilbyder en
+[valutakonto](https://www.nordnet.dk/valutaer/1) til at håndtere handler i
+fremmede valutaer. Det kan svare sig, fordi man sparer vekselgebyr hver gang man
+handler papirer i andre valutaer end danske kroner.
+
 ## Kilder
 
 [^godkendte]: [Liste over aktiebaserede investeringsselskaber](https://www.skat.dk/SKAT.aspx?oId=2244641)
